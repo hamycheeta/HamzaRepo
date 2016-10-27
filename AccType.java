@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 *Hamza Wasim
 **/
 
-public class AccounTypeProj {
+public class AccType {
 public enum AccountType {
 Administrator, Student, Staff, Guest
 }
